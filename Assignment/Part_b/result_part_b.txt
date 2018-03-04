@@ -1,0 +1,15 @@
+Gradient Descent:
+Learned values of parameters:
+  [[ 533343.83233083]
+ [  15704.6939717 ]
+ [  10273.73324342]
+ [  16360.12432329]
+ [ 176366.33750576]]
+
+Iterative  re-weighted  least square method: 
+Learned Parameters:
+[[ 533343.83233083]
+ [  15704.68461889]
+ [  10273.67793273]
+ [  16360.06629425]
+ [ 176366.43090329]]
