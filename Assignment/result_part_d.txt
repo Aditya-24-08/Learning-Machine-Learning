@@ -1,0 +1,1 @@
+For this problem, I would prefer the mean squared error cost function as it decays more rapidly than mean absolute error and does not get to huge values like in case of mean cubed error.
