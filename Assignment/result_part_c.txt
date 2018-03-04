@@ -1,1 +1,0 @@
-Since for the given alpha = 0.05, only linear combinational features were leading to convergence, so for this problem, I would choose linear combinations.
