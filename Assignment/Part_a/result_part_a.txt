@@ -1,0 +1,16 @@
+problem without regularization, alpha =  0.05
+Learned values of parameters:
+  [[ 533343.83233083]
+ [  15704.69396639]
+ [  10273.73321201]
+ [  16360.12429035]
+ [ 176366.33755878]]
+
+problem with regularization, alpha =  0.05, lambda =  0.01
+Learned values of parameters:
+[[ 533343.83233082]
+ [  15704.69294901]
+ [  10273.77045451]
+ [  16360.15846264]
+ [ 176366.21702372]]
+
